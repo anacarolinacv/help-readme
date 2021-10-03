@@ -4,7 +4,7 @@
 
 ## O que é o Help Readme
 
-Oi, leitor. Tudo bem? Seja bem vindo! Aqui nesse repositório você irá encontrar inspirações para você deixar ainda mais interessante o seu Readme pessoal. Gostou? Assim que desenvolver o seu, adicione o seu aqui também, se quiser. 
+Oi, leitor. Tudo bem? Seja bem vindo! Aqui nesse repositório você irá encontrar inspirações para deixar mais interessante o seu Readme pessoal. Gostou? Assim que desenvolver o seu, adicione o seu aqui também, se quiser. 
 
 ## Como fazer?
 
